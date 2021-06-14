@@ -8,16 +8,17 @@
 
 }
 
-/* header */
-.header 
-{
-    font-size: 30px;
-    margin-top: 25px;
-    margin-bottom: 25px;
+
+
+
+ 
+/* home */
+
+#home::before{
+    height: 500px;
 }
 
 
-/*
 .name h1
 {
     font-size: 25px;
@@ -28,8 +29,31 @@
     font-size: 20px;
 }
 
+/*about me */
+.picture img
+{
+    
+    width: 60%;
+}
 
-*/
+
+/* header */
+.header 
+{
+    font-size: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.name h1
+{
+    font-size: 25px;
+}
+
+.hi
+{
+    font-size: 20px;
+}
 
 /*about me */
 .picture img
