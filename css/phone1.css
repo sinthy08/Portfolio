@@ -1,0 +1,63 @@
+/* navbar */
+.navbar ul
+{
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 70px;
+    margin-bottom: 5px;
+
+}
+
+/* header */
+.header 
+{
+    font-size: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.name h1
+{
+    font-size: 25px;
+}
+
+.hi
+{
+    font-size: 20px;
+}
+
+/*about me */
+.image img
+{
+    height: 50%;
+    width: 50%;
+}
+
+
+
+/* postfolio image */
+.port img
+{
+    width: 180px;
+    height: 160px;
+    margin: 10px;
+}
+
+/*education */
+.row
+{
+    flex-direction: column;
+    align-items: center;
+}
+.box{
+
+    flex-wrap: wrap;
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+}
+
+#submit
+{
+    width: 20%;
+}

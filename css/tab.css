@@ -1,0 +1,81 @@
+/* navbar */
+.navbar ul
+{
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 60px;
+    margin-bottom: 0px;
+
+}
+
+
+
+/* header */
+.header 
+{
+    font-size: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+
+/* about */
+.picture
+{
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.picture img
+{
+    width: 400px;
+    height: 280px;
+
+}
+
+.aboutme h2{
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+}
+
+
+/* Education */
+
+.education
+{
+    flex-direction: column;
+
+}
+
+.row
+{
+    flex-direction: column;
+    align-items: center;
+}
+.box{
+
+    flex-wrap: wrap;
+    margin: 10px;
+    height: 200px;
+    width: 350px;
+}
+
+/* Contact */
+
+.input
+{
+    width: 60%;
+}
+
+#message
+{
+    width: 60%;
+}
+
+#submit
+{
+    width: 20%;
+}

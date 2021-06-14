@@ -1,0 +1,37 @@
+/* Education */
+
+.education
+{
+    flex-direction: column;
+
+}
+
+.row
+{
+    align-items: center;
+
+}
+.box{
+
+    align-items: center;
+    margin: 50px;
+    margin-left: 150px;
+
+}
+
+/* Contact */
+
+.input
+{
+    width: 60%;
+}
+
+#message
+{
+    width: 60%;
+}
+
+#submit
+{
+    width: 20%;
+}

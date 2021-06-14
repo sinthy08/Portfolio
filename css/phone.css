@@ -1,0 +1,35 @@
+
+/* header */
+.header 
+{
+    font-size: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.name h1
+{
+    font-size: 25px;
+}
+
+.hi
+{
+    font-size: 20px;
+}
+
+/*about me */
+.image img
+{
+    
+    width: 80%;
+}
+
+
+
+/* postfolio image */
+.port img
+{
+    width: 250px;
+    height: 200px;
+    margin: 10px;
+}
