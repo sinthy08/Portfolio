@@ -9,16 +9,6 @@
 }
 
 
-
-
- 
-/* home */
-
-#home::before{
-    height: 500px;
-}
-
-
 .name h1
 {
     font-size: 25px;
