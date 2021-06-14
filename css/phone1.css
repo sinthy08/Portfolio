@@ -10,32 +10,6 @@
 
 
 
-.name h1
-{
-    font-size: 25px;
-}
-
-.hi
-{
-    font-size: 20px;
-}
-
-/*about me */
-
-#about .header
-{
-    margin-top: 10px;
-    margin-bottom: 10px;
-
-}
-
-.picture img{
-
-    width: 80%;
-}
-
-
-
 /* header */
 .header 
 {
@@ -44,6 +18,8 @@
     margin-bottom: 20px;
 }
 
+/*home */
+
 .name h1
 {
     font-size: 25px;
@@ -54,11 +30,25 @@
     font-size: 20px;
 }
 
+
+.picture img{
+
+    width: 80%;
+}
+
+
 /*about me */
 .picture img
 {
     height: 50%;
     width: 50%;
+}
+
+#about .header
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
 }
 
 
