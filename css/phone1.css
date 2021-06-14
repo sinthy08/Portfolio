@@ -9,6 +9,7 @@
 }
 
 
+
 .name h1
 {
     font-size: 25px;
@@ -20,19 +21,27 @@
 }
 
 /*about me */
-.picture img
+
+#about .header
 {
-    
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.picture img{
+
     width: 80%;
 }
+
 
 
 /* header */
 .header 
 {
     font-size: 30px;
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .name h1
